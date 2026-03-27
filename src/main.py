@@ -23,7 +23,7 @@ class Usuario(BaseModel):
 # criar base de dados
 
 base_de_dados = [
-    Usuario(id=1, email="deniscs873@hotmail.com", senha="Deniscs873"),
+    Usuario(id=1, email="denis@hotmail.com", senha="Teste"),
     Usuario(id=2, email="teste@teste.com.br", senha="teste123")
 ]
 
